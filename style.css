@@ -1,0 +1,19 @@
+#footer{
+    position: fixed;
+    color: black;
+    bottom: 100px;
+    width: 100%;
+    font-size: xx-large;
+}
+#header{
+    top: 50px;
+    font-size: 100px;
+}
+body{
+    background-color: lime;
+    font-family: 'Yellowtail', cursive;
+}
+#main{
+    background: linear-gradient(red, purple);
+}
+
